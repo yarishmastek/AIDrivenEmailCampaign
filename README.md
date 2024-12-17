@@ -1,4 +1,4 @@
-# AIDrivenEmailCampaign 🚀
+# AI Driven Email Campaign 🚀
 
 **AIDrivenEmailCampaign** is a powerful, Gen AI LLM-powered email campaign system that delivers hyper-personalized marketing emails based on user preferences and behavior. This solution combines the capabilities of Large Language Models (LLMs) and user data to create highly engaging and targeted email campaigns, improving customer engagement and conversion rates.
 
@@ -16,11 +16,11 @@
 
 ## 📦 **Tech Stack**
 
-- **Backend**: Python with Flask/FastAPI
-- **LLM Integration**: OpenAI API or similar Gen AI providers
-- **Database**: PostgreSQL / MongoDB for user preferences
+- **Backend**: Node JS
+- **LLM Integration**: OpenAI API Gen AI provider
+- **Database**: MongoDB for user preferences
 - **Email Service**: SMTP / SendGrid / Amazon SES
-- **Deployment**: Docker, AWS, or Heroku
+- **Deployment**: Docker, AWS
 - **Monitoring**: Prometheus, Grafana, or similar tools
 
 ---
