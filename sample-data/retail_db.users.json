@@ -1,0 +1,2850 @@
+[{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefca"
+  },
+  "firstName": "Douglas",
+  "lastName": "Murphy",
+  "email": "hartdennis@yahoo.com",
+  "age": 57,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Jeremychester",
+    "street": "790 Lance Coves Apt. 583"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefcb"
+  },
+  "firstName": "Justin",
+  "lastName": "Jones",
+  "email": "henryjoseph@flores-hahn.com",
+  "age": 43,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Robertsmouth",
+    "street": "254 Kelsey Mills Apt. 469"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefcc"
+  },
+  "firstName": "David",
+  "lastName": "Smith",
+  "email": "torresdevin@butler.com",
+  "age": 17,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Davidshire",
+    "street": "5531 Jennifer Plains"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefcd"
+  },
+  "firstName": "Mary",
+  "lastName": "Baker",
+  "email": "katrinajackson@gmail.com",
+  "age": 93,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Lake Sharonmouth",
+    "street": "81223 Michael View"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefce"
+  },
+  "firstName": "Alexis",
+  "lastName": "Gonzalez",
+  "email": "lwatkins@craig.com",
+  "age": 93,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "West Jasmine",
+    "street": "11493 Richard Trail Suite 704"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefcf"
+  },
+  "firstName": "Michael",
+  "lastName": "Woodward",
+  "email": "chaseherrera@gmail.com",
+  "age": 52,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Jerrytown",
+    "street": "313 Caldwell Villages"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefd0"
+  },
+  "firstName": "Lisa",
+  "lastName": "Shelton",
+  "email": "henryjennifer@yahoo.com",
+  "age": 72,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "East Kirstenview",
+    "street": "991 Vicki Crossroad Suite 173"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefd1"
+  },
+  "firstName": "Carol",
+  "lastName": "Young",
+  "email": "zporter@spencer-garcia.org",
+  "age": 44,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "North Michelleshire",
+    "street": "096 Kenneth Groves"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefd2"
+  },
+  "firstName": "Joel",
+  "lastName": "Barrett",
+  "email": "nhampton@gmail.com",
+  "age": 46,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Johnsonside",
+    "street": "62839 Patrick Vista"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefd3"
+  },
+  "firstName": "Diane",
+  "lastName": "Zamora",
+  "email": "karen71@velasquez-hernandez.net",
+  "age": 57,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Angelatown",
+    "street": "885 Ashley Trafficway"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefd4"
+  },
+  "firstName": "Kristi",
+  "lastName": "Kennedy",
+  "email": "huffmanheather@yahoo.com",
+  "age": 70,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Sanchezbury",
+    "street": "3998 Cunningham Square"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefd5"
+  },
+  "firstName": "Linda",
+  "lastName": "Irwin",
+  "email": "matthew32@hawkins.com",
+  "age": 68,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Lake Brianbury",
+    "street": "8466 Roberts Stravenue"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefd6"
+  },
+  "firstName": "Barbara",
+  "lastName": "Guerrero",
+  "email": "edward93@daniels-lawrence.com",
+  "age": 57,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "North Kevinmouth",
+    "street": "844 Wendy Road Apt. 406"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefd7"
+  },
+  "firstName": "Raymond",
+  "lastName": "Ramirez",
+  "email": "michaeldiane@rogers-carroll.net",
+  "age": 77,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "New Catherinemouth",
+    "street": "812 Olivia Circles Suite 777"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefd8"
+  },
+  "firstName": "Susan",
+  "lastName": "Wells",
+  "email": "jay53@gmail.com",
+  "age": 97,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Port Vincent",
+    "street": "824 Rose Fords Suite 600"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefd9"
+  },
+  "firstName": "Jennifer",
+  "lastName": "Clark",
+  "email": "hunter92@yahoo.com",
+  "age": 36,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "West Haroldmouth",
+    "street": "60134 Shirley Meadow Suite 817"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefda"
+  },
+  "firstName": "Andrew",
+  "lastName": "Mclaughlin",
+  "email": "piercepamela@yahoo.com",
+  "age": 99,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Herreramouth",
+    "street": "514 Madison Ford"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefdb"
+  },
+  "firstName": "Katherine",
+  "lastName": "Garza",
+  "email": "melanie77@hotmail.com",
+  "age": 48,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Danielleport",
+    "street": "654 Rebecca Skyway"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefdc"
+  },
+  "firstName": "Heather",
+  "lastName": "Guzman",
+  "email": "christophersimmons@gmail.com",
+  "age": 89,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Tonyastad",
+    "street": "574 Eric Causeway Apt. 616"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefdd"
+  },
+  "firstName": "Kathleen",
+  "lastName": "Ochoa",
+  "email": "josephelizabeth@yahoo.com",
+  "age": 84,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Donnatown",
+    "street": "753 Fitzgerald Spur"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefde"
+  },
+  "firstName": "Katrina",
+  "lastName": "Kelly",
+  "email": "shanebradley@gmail.com",
+  "age": 87,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Kaylafurt",
+    "street": "620 Tyler Square Apt. 295"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefdf"
+  },
+  "firstName": "Ryan",
+  "lastName": "Anderson",
+  "email": "ikelly@hotmail.com",
+  "age": 28,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Josephside",
+    "street": "19690 Joseph Rapid Apt. 476"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefe0"
+  },
+  "firstName": "Raymond",
+  "lastName": "Shaw",
+  "email": "fernandezsarah@fitzpatrick.com",
+  "age": 41,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "East Andreaview",
+    "street": "86203 Peter Neck"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefe1"
+  },
+  "firstName": "Laura",
+  "lastName": "Davis",
+  "email": "thomaswilliam@greene.com",
+  "age": 38,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "West Kelseybury",
+    "street": "994 Oscar Pine Apt. 575"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefe2"
+  },
+  "firstName": "Veronica",
+  "lastName": "Porter",
+  "email": "xnewman@larson.com",
+  "age": 22,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "West Ashley",
+    "street": "742 Stacy Union"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefe3"
+  },
+  "firstName": "Regina",
+  "lastName": "Noble",
+  "email": "daniel45@parker.com",
+  "age": 69,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "New Elizabethfurt",
+    "street": "8138 Stephanie Shores"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefe4"
+  },
+  "firstName": "Kirsten",
+  "lastName": "Lawrence",
+  "email": "nicholas48@craig.org",
+  "age": 35,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Davidfort",
+    "street": "71565 Victor River"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefe5"
+  },
+  "firstName": "Jessica",
+  "lastName": "Hicks",
+  "email": "steven46@schneider.com",
+  "age": 43,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Jenkinsfurt",
+    "street": "1228 Sheryl Course Apt. 262"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefe6"
+  },
+  "firstName": "David",
+  "lastName": "Woods",
+  "email": "ericmartin@terry.net",
+  "age": 49,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "South Kristi",
+    "street": "97702 Walls Well Apt. 759"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefe7"
+  },
+  "firstName": "David",
+  "lastName": "Johnson",
+  "email": "hessjulie@gmail.com",
+  "age": 75,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Romanfurt",
+    "street": "490 Caitlin Route Apt. 538"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefe8"
+  },
+  "firstName": "Lindsey",
+  "lastName": "Sampson",
+  "email": "zmcdonald@cruz-ball.com",
+  "age": 34,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "West Misty",
+    "street": "1542 Lee Throughway Suite 982"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefe9"
+  },
+  "firstName": "Daisy",
+  "lastName": "Thompson",
+  "email": "melissamcclain@davis.com",
+  "age": 64,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "East Victor",
+    "street": "73670 Alex Terrace"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefea"
+  },
+  "firstName": "Eric",
+  "lastName": "Moore",
+  "email": "umontgomery@hotmail.com",
+  "age": 50,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "North Deanna",
+    "street": "79167 Clarke Wells Suite 271"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefeb"
+  },
+  "firstName": "Timothy",
+  "lastName": "Wilcox",
+  "email": "slane@hotmail.com",
+  "age": 47,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "New Sean",
+    "street": "602 Edwards Shoal"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefec"
+  },
+  "firstName": "Anita",
+  "lastName": "Gilbert",
+  "email": "bford@gmail.com",
+  "age": 23,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Archerfurt",
+    "street": "727 Hart Shore Apt. 537"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefed"
+  },
+  "firstName": "Scott",
+  "lastName": "Carroll",
+  "email": "lbarnett@gmail.com",
+  "age": 27,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Donaldland",
+    "street": "8708 Vasquez Flat Apt. 375"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefee"
+  },
+  "firstName": "John",
+  "lastName": "Lee",
+  "email": "gpark@collins-simpson.com",
+  "age": 32,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Cynthiaport",
+    "street": "373 Kenneth Crossing Apt. 986"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefef"
+  },
+  "firstName": "Cody",
+  "lastName": "Ryan",
+  "email": "maryklein@gilmore-hill.com",
+  "age": 32,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Lake Anthony",
+    "street": "7461 Jeremy Place Apt. 690"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feff0"
+  },
+  "firstName": "Jack",
+  "lastName": "Owens",
+  "email": "david14@johnson.biz",
+  "age": 30,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Pittmanburgh",
+    "street": "411 Christine Roads Suite 288"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feff1"
+  },
+  "firstName": "Miguel",
+  "lastName": "York",
+  "email": "edward06@berry.net",
+  "age": 64,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Port Herbert",
+    "street": "4365 Jody Mission Suite 772"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feff2"
+  },
+  "firstName": "Jesse",
+  "lastName": "West",
+  "email": "elizabethmartinez@gmail.com",
+  "age": 16,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Lake Michael",
+    "street": "679 James View"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feff3"
+  },
+  "firstName": "Charles",
+  "lastName": "Miller",
+  "email": "guzmanstacy@diaz.com",
+  "age": 47,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Contrerasshire",
+    "street": "08373 Ward Burg Suite 860"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feff4"
+  },
+  "firstName": "David",
+  "lastName": "George",
+  "email": "william08@little-simpson.com",
+  "age": 82,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "North Jerrymouth",
+    "street": "952 Lewis Track"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feff5"
+  },
+  "firstName": "Jennifer",
+  "lastName": "Stewart",
+  "email": "stephaniemendoza@gmail.com",
+  "age": 74,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "West Alecview",
+    "street": "52881 Perry Mount"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feff6"
+  },
+  "firstName": "Kristen",
+  "lastName": "Cook",
+  "email": "padilladerek@walker-contreras.com",
+  "age": 59,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Lake Suzanneshire",
+    "street": "9127 Tony Ports"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feff7"
+  },
+  "firstName": "Michael",
+  "lastName": "Rodriguez",
+  "email": "ronaldmullins@yahoo.com",
+  "age": 45,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Melindaport",
+    "street": "78454 Patterson Squares Apt. 508"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feff8"
+  },
+  "firstName": "Amber",
+  "lastName": "Matthews",
+  "email": "hilljose@yahoo.com",
+  "age": 29,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Christopherport",
+    "street": "7318 Linda Junctions Apt. 565"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feff9"
+  },
+  "firstName": "Jacob",
+  "lastName": "Fisher",
+  "email": "clinton98@hotmail.com",
+  "age": 78,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "New Mathew",
+    "street": "519 Jacob Ferry"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feffa"
+  },
+  "firstName": "Aaron",
+  "lastName": "Spears",
+  "email": "pwolfe@ponce.com",
+  "age": 97,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Garyborough",
+    "street": "107 Nicholson Passage"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feffb"
+  },
+  "firstName": "Larry",
+  "lastName": "Santana",
+  "email": "sellersmolly@hotmail.com",
+  "age": 37,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Grayfort",
+    "street": "0740 Deanna Burg"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feffc"
+  },
+  "firstName": "Bethany",
+  "lastName": "Bowman",
+  "email": "richard13@monroe.com",
+  "age": 29,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "West Brandymouth",
+    "street": "75506 Jeremy Ports Suite 861"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feffd"
+  },
+  "firstName": "Lisa",
+  "lastName": "Gillespie",
+  "email": "williamevans@wilson-weiss.com",
+  "age": 78,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Gentryport",
+    "street": "24591 Riley Hill Apt. 969"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39feffe"
+  },
+  "firstName": "Meredith",
+  "lastName": "Blackwell",
+  "email": "hcoleman@hotmail.com",
+  "age": 90,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "North Heidiberg",
+    "street": "23684 Calderon Hollow"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39fefff"
+  },
+  "firstName": "Carlos",
+  "lastName": "Bailey",
+  "email": "ginagarza@richardson.com",
+  "age": 21,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "East Elizabethport",
+    "street": "087 Levy Gardens"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff000"
+  },
+  "firstName": "Brett",
+  "lastName": "Nelson",
+  "email": "wilsonjeffrey@hotmail.com",
+  "age": 82,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "West Deborahview",
+    "street": "441 Johnson Run"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff001"
+  },
+  "firstName": "Daniel",
+  "lastName": "Parks",
+  "email": "sarahmitchell@santana-parker.biz",
+  "age": 25,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Ryanshire",
+    "street": "546 Cummings Inlet"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff002"
+  },
+  "firstName": "Charles",
+  "lastName": "Jones",
+  "email": "jacqueline09@bird-watson.com",
+  "age": 68,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "West Jennifer",
+    "street": "44213 Carrie Radial"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff003"
+  },
+  "firstName": "Ashley",
+  "lastName": "Cox",
+  "email": "andrearoberts@gmail.com",
+  "age": 49,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Johnsonfurt",
+    "street": "690 Burns Bridge Suite 915"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff004"
+  },
+  "firstName": "Derrick",
+  "lastName": "Cantu",
+  "email": "nunezgregory@williams.biz",
+  "age": 99,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Tiffanybury",
+    "street": "986 Richard Gateway"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff005"
+  },
+  "firstName": "Peter",
+  "lastName": "Juarez",
+  "email": "ryan48@gmail.com",
+  "age": 38,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Port Sherryview",
+    "street": "9099 Robert Pine Suite 570"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff006"
+  },
+  "firstName": "Michael",
+  "lastName": "Williams",
+  "email": "lisa64@saunders.biz",
+  "age": 86,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Carterberg",
+    "street": "39742 Rhodes Island Apt. 699"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff007"
+  },
+  "firstName": "Keith",
+  "lastName": "Williams",
+  "email": "tclark@yahoo.com",
+  "age": 52,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "West Mark",
+    "street": "44123 Stewart Mountain Apt. 101"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff008"
+  },
+  "firstName": "Lisa",
+  "lastName": "Benton",
+  "email": "powelljeremy@yahoo.com",
+  "age": 41,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "South Kayla",
+    "street": "2037 Lee Garden"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff009"
+  },
+  "firstName": "Sarah",
+  "lastName": "Miller",
+  "email": "joshuayoung@cook.com",
+  "age": 53,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Port Carla",
+    "street": "6422 Castro Street Apt. 749"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff00a"
+  },
+  "firstName": "Connor",
+  "lastName": "Ball",
+  "email": "justin21@brown.net",
+  "age": 24,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Longberg",
+    "street": "5168 Ellis Center"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff00b"
+  },
+  "firstName": "Judy",
+  "lastName": "Cox",
+  "email": "gregory46@garcia.com",
+  "age": 54,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Newmanhaven",
+    "street": "29233 Ayala Gardens"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff00c"
+  },
+  "firstName": "Randy",
+  "lastName": "Vincent",
+  "email": "newmankrystal@gmail.com",
+  "age": 39,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Port Nancy",
+    "street": "571 Thompson Circles"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff00d"
+  },
+  "firstName": "Betty",
+  "lastName": "Montes",
+  "email": "david39@hotmail.com",
+  "age": 29,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "North Heather",
+    "street": "88729 Tami Square"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff00e"
+  },
+  "firstName": "Audrey",
+  "lastName": "Ayala",
+  "email": "coffeystephanie@stark.com",
+  "age": 53,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "West Zachary",
+    "street": "83708 Eric Mill Suite 813"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff00f"
+  },
+  "firstName": "Heidi",
+  "lastName": "Manning",
+  "email": "parsonsjeffrey@brooks.org",
+  "age": 47,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Jasonside",
+    "street": "8443 Joanna Knolls"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff010"
+  },
+  "firstName": "Susan",
+  "lastName": "Davis",
+  "email": "millerlaura@gmail.com",
+  "age": 47,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "North Peter",
+    "street": "3769 Jeffrey Road"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff011"
+  },
+  "firstName": "Kathryn",
+  "lastName": "Martinez",
+  "email": "ihall@mcclure-nicholson.biz",
+  "age": 55,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "West Brandyborough",
+    "street": "689 Samantha Road"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff012"
+  },
+  "firstName": "William",
+  "lastName": "Perez",
+  "email": "michellemorales@hotmail.com",
+  "age": 49,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Hillfort",
+    "street": "78024 Smith Pike Apt. 577"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff013"
+  },
+  "firstName": "Danielle",
+  "lastName": "Orr",
+  "email": "lisa54@yahoo.com",
+  "age": 74,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "New Nancy",
+    "street": "9255 Amber Ranch"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff014"
+  },
+  "firstName": "Jennifer",
+  "lastName": "Proctor",
+  "email": "donald79@hotmail.com",
+  "age": 80,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "New Kelly",
+    "street": "485 Harper Terrace Suite 261"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff015"
+  },
+  "firstName": "Dylan",
+  "lastName": "Maynard",
+  "email": "bgordon@moore.com",
+  "age": 41,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Andrewsberg",
+    "street": "7870 Michael Mission Suite 052"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff016"
+  },
+  "firstName": "Alyssa",
+  "lastName": "Rivera",
+  "email": "martinezautumn@hotmail.com",
+  "age": 91,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Carlsonstad",
+    "street": "04988 Sierra Mission"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff017"
+  },
+  "firstName": "Anthony",
+  "lastName": "Hoffman",
+  "email": "phillipswilliam@yahoo.com",
+  "age": 92,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "South Justin",
+    "street": "08653 Myers Street"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff018"
+  },
+  "firstName": "Joseph",
+  "lastName": "Summers",
+  "email": "wmendoza@gmail.com",
+  "age": 86,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Priceton",
+    "street": "28047 Erin Land Apt. 569"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff019"
+  },
+  "firstName": "Lauren",
+  "lastName": "Lewis",
+  "email": "qrogers@yahoo.com",
+  "age": 30,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Brownmouth",
+    "street": "90573 Patricia Throughway Suite 895"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff01a"
+  },
+  "firstName": "Devin",
+  "lastName": "Holloway",
+  "email": "suzanne01@hotmail.com",
+  "age": 77,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "East George",
+    "street": "86409 Garrett Crossing"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff01b"
+  },
+  "firstName": "Sabrina",
+  "lastName": "James",
+  "email": "theresa88@yahoo.com",
+  "age": 46,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Lake Williamhaven",
+    "street": "159 Richards Harbors Apt. 939"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff01c"
+  },
+  "firstName": "Michelle",
+  "lastName": "Jones",
+  "email": "bdavis@yahoo.com",
+  "age": 67,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Clarkport",
+    "street": "35378 Jackson Glens"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff01d"
+  },
+  "firstName": "Shane",
+  "lastName": "Lawrence",
+  "email": "ewu@potts.com",
+  "age": 99,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "West Angelamouth",
+    "street": "4915 Webb Route"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff01e"
+  },
+  "firstName": "Carlos",
+  "lastName": "Trujillo",
+  "email": "jamieshort@hotmail.com",
+  "age": 69,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Sampsonchester",
+    "street": "55627 Linda Place Suite 705"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff01f"
+  },
+  "firstName": "Andrea",
+  "lastName": "Smith",
+  "email": "mhudson@hotmail.com",
+  "age": 62,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Port Bruce",
+    "street": "0976 Fitzgerald Meadows"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff020"
+  },
+  "firstName": "Michelle",
+  "lastName": "Parker",
+  "email": "nicole82@gmail.com",
+  "age": 66,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Jacobshire",
+    "street": "05030 Carol Hills Apt. 248"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff021"
+  },
+  "firstName": "Jessica",
+  "lastName": "Byrd",
+  "email": "bhill@nelson-myers.com",
+  "age": 98,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "West Juliestad",
+    "street": "2036 Robert Squares"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff022"
+  },
+  "firstName": "Marc",
+  "lastName": "Hall",
+  "email": "manningwilliam@gmail.com",
+  "age": 60,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Port John",
+    "street": "05652 Clark Bypass"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff023"
+  },
+  "firstName": "Carolyn",
+  "lastName": "Byrd",
+  "email": "qsmith@gmail.com",
+  "age": 99,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Lake David",
+    "street": "19219 Koch Roads"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff024"
+  },
+  "firstName": "Joshua",
+  "lastName": "Smith",
+  "email": "sarahwiggins@cochran.info",
+  "age": 58,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Lake Peter",
+    "street": "587 Zavala Motorway"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff025"
+  },
+  "firstName": "Jennifer",
+  "lastName": "Flynn",
+  "email": "karenlin@clark.com",
+  "age": 92,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Alexanderborough",
+    "street": "8088 Brown Skyway Apt. 363"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff026"
+  },
+  "firstName": "Kenneth",
+  "lastName": "Charles",
+  "email": "ricedarryl@yahoo.com",
+  "age": 70,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Port Janiceborough",
+    "street": "5058 Mcclure Haven Apt. 109"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff027"
+  },
+  "firstName": "Kevin",
+  "lastName": "Friedman",
+  "email": "reillykayla@roberts.com",
+  "age": 27,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "New Philip",
+    "street": "686 Tyler Trace Suite 881"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff028"
+  },
+  "firstName": "Kimberly",
+  "lastName": "Peck",
+  "email": "quinnpatty@lopez.net",
+  "age": 95,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Wendybury",
+    "street": "368 Gregory Points"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff029"
+  },
+  "firstName": "Danielle",
+  "lastName": "Trujillo",
+  "email": "operry@jimenez.org",
+  "age": 53,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Johnsonshire",
+    "street": "0811 Smith Ramp"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff02a"
+  },
+  "firstName": "Jacqueline",
+  "lastName": "Shaw",
+  "email": "hartmanmary@taylor.biz",
+  "age": 60,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Lake Taylorfort",
+    "street": "92631 Christine Trace"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff02b"
+  },
+  "firstName": "Tabitha",
+  "lastName": "Rivas",
+  "email": "wsmith@marshall.org",
+  "age": 73,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Collinsport",
+    "street": "646 Crawford Mission Apt. 810"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff02c"
+  },
+  "firstName": "Chad",
+  "lastName": "Wood",
+  "email": "tiffanycook@stewart.com",
+  "age": 60,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Leslieport",
+    "street": "145 Cody Rue Apt. 302"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff02d"
+  },
+  "firstName": "Christopher",
+  "lastName": "Saunders",
+  "email": "gpatrick@yahoo.com",
+  "age": 14,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Lake Renee",
+    "street": "3983 Michael Shores"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff02e"
+  },
+  "firstName": "Robert",
+  "lastName": "David",
+  "email": "laura77@gmail.com",
+  "age": 54,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Hardyside",
+    "street": "32922 Harrison Lights Suite 513"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff02f"
+  },
+  "firstName": "Mary",
+  "lastName": "Molina",
+  "email": "prestonhill@rivera.com",
+  "age": 52,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Karichester",
+    "street": "46310 Hancock Manors Suite 928"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff030"
+  },
+  "firstName": "Joseph",
+  "lastName": "Ramirez",
+  "email": "arnoldbrenda@gmail.com",
+  "age": 27,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Lake Marystad",
+    "street": "972 Ronald Green Apt. 451"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff031"
+  },
+  "firstName": "Charles",
+  "lastName": "Wilson",
+  "email": "kevinwhite@yahoo.com",
+  "age": 32,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "New Christinastad",
+    "street": "40425 Kelly Mill Apt. 722"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff032"
+  },
+  "firstName": "Harold",
+  "lastName": "Zimmerman",
+  "email": "jessicamartinez@yahoo.com",
+  "age": 43,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Harrellchester",
+    "street": "0546 Love Mall"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff033"
+  },
+  "firstName": "Rachel",
+  "lastName": "Robinson",
+  "email": "bthompson@patterson.com",
+  "age": 66,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "East Jillhaven",
+    "street": "991 Moreno Circles Apt. 942"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff034"
+  },
+  "firstName": "Jennifer",
+  "lastName": "Warner",
+  "email": "james55@hotmail.com",
+  "age": 88,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "East Darylstad",
+    "street": "9164 Adam Ramp"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff035"
+  },
+  "firstName": "Robert",
+  "lastName": "King",
+  "email": "bcopeland@reed.com",
+  "age": 84,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "West Sonya",
+    "street": "452 Ramirez Burgs"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff036"
+  },
+  "firstName": "Patricia",
+  "lastName": "Richmond",
+  "email": "geraldevans@yahoo.com",
+  "age": 76,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Watkinstown",
+    "street": "48482 Tammy Loop Suite 221"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff037"
+  },
+  "firstName": "Michael",
+  "lastName": "Roberts",
+  "email": "wstafford@yahoo.com",
+  "age": 98,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Port Matthewshire",
+    "street": "5371 Lisa Corners"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff038"
+  },
+  "firstName": "Alexandra",
+  "lastName": "Watson",
+  "email": "louisbrown@white-lester.com",
+  "age": 57,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Port Eddietown",
+    "street": "7162 Cannon Road"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff039"
+  },
+  "firstName": "Douglas",
+  "lastName": "Coleman",
+  "email": "bsmith@clarke.biz",
+  "age": 74,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Lake Allenton",
+    "street": "81850 Michael Branch"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff03a"
+  },
+  "firstName": "Rachel",
+  "lastName": "Briggs",
+  "email": "rhondahughes@yahoo.com",
+  "age": 29,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "North Justinland",
+    "street": "4978 James Extension Apt. 140"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff03b"
+  },
+  "firstName": "Mary",
+  "lastName": "Howard",
+  "email": "samuelsmith@gmail.com",
+  "age": 95,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "West Richardchester",
+    "street": "8804 Roth Burgs Suite 324"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff03c"
+  },
+  "firstName": "Amber",
+  "lastName": "Perez",
+  "email": "piercejennifer@green.com",
+  "age": 92,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "South Christopher",
+    "street": "707 Nicole Mountain"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff03d"
+  },
+  "firstName": "Chelsea",
+  "lastName": "Wagner",
+  "email": "donaldrose@gmail.com",
+  "age": 65,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Port Lisa",
+    "street": "50556 Tate Station Suite 054"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff03e"
+  },
+  "firstName": "Paul",
+  "lastName": "Williams",
+  "email": "rmartin@lewis-smith.com",
+  "age": 39,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Port Jerry",
+    "street": "86505 Campbell Landing"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff03f"
+  },
+  "firstName": "Angela",
+  "lastName": "Charles",
+  "email": "jefferygaines@gmail.com",
+  "age": 95,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "North Adamtown",
+    "street": "4274 Robert Estates"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff040"
+  },
+  "firstName": "David",
+  "lastName": "Huff",
+  "email": "john55@garza.com",
+  "age": 96,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Emilyfurt",
+    "street": "2874 Hoffman Rapid"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff041"
+  },
+  "firstName": "Ashlee",
+  "lastName": "Clark",
+  "email": "zpetty@patterson-stein.com",
+  "age": 38,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Robinsonton",
+    "street": "87782 Jacob Mews Suite 795"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff042"
+  },
+  "firstName": "Grace",
+  "lastName": "Daniels",
+  "email": "clarkchad@yahoo.com",
+  "age": 77,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "West Cynthia",
+    "street": "5068 Sarah Streets Apt. 462"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff043"
+  },
+  "firstName": "Alyssa",
+  "lastName": "Jordan",
+  "email": "nicholastucker@dean.com",
+  "age": 51,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Davisberg",
+    "street": "78311 Murphy Glen Apt. 978"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff044"
+  },
+  "firstName": "Edward",
+  "lastName": "Cooper",
+  "email": "matthewszachary@white.org",
+  "age": 68,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "Walkerfurt",
+    "street": "05335 Austin Center Suite 865"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff045"
+  },
+  "firstName": "Richard",
+  "lastName": "Martin",
+  "email": "steven31@mcgee.com",
+  "age": 77,
+  "gender": "Female",
+  "address": {
+    "country": "USA",
+    "city": "North Andrea",
+    "street": "7613 Justin Camp"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff046"
+  },
+  "firstName": "Vincent",
+  "lastName": "Calderon",
+  "email": "nguyenmartha@yahoo.com",
+  "age": 37,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Brandichester",
+    "street": "5786 Sherri Mountain Apt. 170"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff047"
+  },
+  "firstName": "Jennifer",
+  "lastName": "Smith",
+  "email": "stewartelizabeth@chen.com",
+  "age": 89,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Port Brandon",
+    "street": "24955 Christine Club Suite 758"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff048"
+  },
+  "firstName": "Brandon",
+  "lastName": "Martin",
+  "email": "teresawagner@kaiser.net",
+  "age": 32,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "West Gailhaven",
+    "street": "8109 Edwards Square Suite 473"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff049"
+  },
+  "firstName": "Michael",
+  "lastName": "White",
+  "email": "brittany71@hotmail.com",
+  "age": 54,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Johnsonbury",
+    "street": "777 Allison Road"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff04a"
+  },
+  "firstName": "Alicia",
+  "lastName": "Johnson",
+  "email": "elizabethwhite@zavala-powers.org",
+  "age": 21,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "South Kimberlyfurt",
+    "street": "316 Mendoza Camp"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff04b"
+  },
+  "firstName": "Brenda",
+  "lastName": "Hess",
+  "email": "glennkathleen@yahoo.com",
+  "age": 46,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Joseborough",
+    "street": "0099 Jessica Canyon Suite 098"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff04c"
+  },
+  "firstName": "Walter",
+  "lastName": "Neal",
+  "email": "nhayes@hotmail.com",
+  "age": 100,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "West Jennifer",
+    "street": "769 Baxter Locks"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff04d"
+  },
+  "firstName": "Lindsey",
+  "lastName": "Walker",
+  "email": "williamsvanessa@cooper.org",
+  "age": 62,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Kristentown",
+    "street": "857 Sandra Lights Apt. 314"
+  },
+  "preferences": {
+    "product_preference": "yoga",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff04e"
+  },
+  "firstName": "Gregory",
+  "lastName": "Valencia",
+  "email": "mckenziejonathan@yahoo.com",
+  "age": 38,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Christineside",
+    "street": "987 Jennifer Parkways Apt. 375"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff04f"
+  },
+  "firstName": "Nathan",
+  "lastName": "Acosta",
+  "email": "williamsonbrooke@gmail.com",
+  "age": 75,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Benjaminchester",
+    "street": "61883 Paul Land Apt. 553"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff050"
+  },
+  "firstName": "Bruce",
+  "lastName": "Frye",
+  "email": "odavis@yahoo.com",
+  "age": 40,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Paynestad",
+    "street": "3969 Amanda Drive Suite 431"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff051"
+  },
+  "firstName": "Christina",
+  "lastName": "Stafford",
+  "email": "meganglass@herring-stanley.com",
+  "age": 71,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Port David",
+    "street": "31191 Keith Estates Suite 741"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff052"
+  },
+  "firstName": "Wendy",
+  "lastName": "Snyder",
+  "email": "hallen@hotmail.com",
+  "age": 26,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "North Kathleenbury",
+    "street": "154 Nicholas Course"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff053"
+  },
+  "firstName": "Brandon",
+  "lastName": "Page",
+  "email": "crystalvincent@elliott-martinez.com",
+  "age": 15,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Flynnton",
+    "street": "432 Sanchez Way"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff054"
+  },
+  "firstName": "Thomas",
+  "lastName": "Stafford",
+  "email": "joshua60@gmail.com",
+  "age": 26,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "New Jamestown",
+    "street": "6981 Christian Fork Suite 026"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff055"
+  },
+  "firstName": "Jacob",
+  "lastName": "Smith",
+  "email": "jennifer33@clark.com",
+  "age": 38,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Patrickview",
+    "street": "5476 Lopez Route Apt. 398"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff056"
+  },
+  "firstName": "Connor",
+  "lastName": "Knox",
+  "email": "udavis@baker.info",
+  "age": 24,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Clarkefort",
+    "street": "7748 Nguyen Cape"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff057"
+  },
+  "firstName": "Ronnie",
+  "lastName": "Taylor",
+  "email": "sherry94@robinson-williams.org",
+  "age": 76,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "South Danielle",
+    "street": "89908 Padilla Heights"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff058"
+  },
+  "firstName": "Catherine",
+  "lastName": "Jones",
+  "email": "qpowers@yahoo.com",
+  "age": 59,
+  "gender": "Male",
+  "address": {
+    "country": "USA",
+    "city": "Scotttown",
+    "street": "948 Bailey Shoal Apt. 801"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff059"
+  },
+  "firstName": "Thomas",
+  "lastName": "Baird",
+  "email": "jrodriguez@walker.com",
+  "age": 90,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Donaldchester",
+    "street": "183 Sara Mountains Apt. 862"
+  },
+  "preferences": {
+    "product_preference": "fashion",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff05a"
+  },
+  "firstName": "Judy",
+  "lastName": "Tate",
+  "email": "deborahstewart@gmail.com",
+  "age": 27,
+  "gender": "Male",
+  "address": {
+    "country": "Canada",
+    "city": "Lake Mathew",
+    "street": "752 Wagner Summit"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff05b"
+  },
+  "firstName": "Crystal",
+  "lastName": "White",
+  "email": "vegakimberly@kelly-braun.net",
+  "age": 47,
+  "gender": "Female",
+  "address": {
+    "country": "Canada",
+    "city": "Mitchellside",
+    "street": "56891 Mitchell Freeway Suite 593"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff05c"
+  },
+  "firstName": "Brian",
+  "lastName": "Carlson",
+  "email": "owensvalerie@tucker.info",
+  "age": 100,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Mullenburgh",
+    "street": "9668 Brown Meadow Apt. 462"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff05d"
+  },
+  "firstName": "Stephanie",
+  "lastName": "Arnold",
+  "email": "heathcynthia@hunter-smith.com",
+  "age": 62,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "Sotochester",
+    "street": "54809 Annette Island Apt. 087"
+  },
+  "preferences": {
+    "product_preference": "casual",
+    "newsletter": false
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff05e"
+  },
+  "firstName": "Anna",
+  "lastName": "Johnson",
+  "email": "wadedavid@martinez.com",
+  "age": 58,
+  "gender": "Female",
+  "address": {
+    "country": "India",
+    "city": "North John",
+    "street": "4625 Cherry Springs Apt. 131"
+  },
+  "preferences": {
+    "product_preference": "sports",
+    "newsletter": true
+  }
+},
+{
+  "_id": {
+    "$oid": "67612b4b84e9f48db39ff05f"
+  },
+  "firstName": "Donald",
+  "lastName": "Ortiz",
+  "email": "steven79@yahoo.com",
+  "age": 83,
+  "gender": "Male",
+  "address": {
+    "country": "India",
+    "city": "Benitezberg",
+    "street": "5742 Anthony Loop"
+  },
+  "preferences": {
+    "product_preference": "business",
+    "newsletter": false
+  }
+}]
